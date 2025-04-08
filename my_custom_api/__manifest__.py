@@ -6,6 +6,7 @@
     'author': 'Kishore',
     'category': 'Sales/API',
     'depends': ['base', 'sale_management', 'stock', 'sale'],
+    'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
     'installable': True,
     'application': True,
